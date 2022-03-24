@@ -10,11 +10,12 @@ An Bmi Calculating mobile application with simple UI and easy workAround.
 - [!alt text](http://picsum.photos/201/200)
 
 ```html
-<p>Technology Used</p>
-```
+Technology Used:
 -  Flutter Framework
 -  Dart
 -  Android Studio
+```
+
 
 
 
