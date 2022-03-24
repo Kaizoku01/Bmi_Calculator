@@ -4,7 +4,7 @@ An Bmi Calculating mobile application with simple UI and easy workAround.
 ## Screens
 
 - Main Input Screen
-- ![Alt text](https://drive.google.com/file/d/1d5Z3f1XImV1HIelA29BW1A1Vnt3IJGQ4/view?usp=sharing)
+![Alt text](https://drive.google.com/file/d/1d5Z3f1XImV1HIelA29BW1A1Vnt3IJGQ4/view?usp=sharing)
 
 
 
