@@ -4,17 +4,17 @@ An Bmi Calculating mobile application with simple UI and easy workAround.
 Made in Flutter.
 ## Screens
 
-- **Main Input Screen**
+- *Main Input Screen*
 
 
-<img src="ReadMe_assest/Main_Screen_BMI.gif" width = 350 height = 600>
+<img src="ReadMe_assest/Main_Screen_BMI.gif" width = 300 height = 500>
 
 
 
-- **Result Screen**
+- *Result Screen*
 
 
-<img src="ReadMe_assest/Result_Screen.gif" width = 350 height = 600>
+<img src="ReadMe_assest/Result_Screen.gif" width = 300 height = 500>
 
 
 ```html
